@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Amca-Qt</h1>
-<h3 align="center">I'm A Computer Science Student from High School</h3>
-
+<h3 align="center">I'm a Beginner Coder and Had a Drean to be Programmer <3</h3>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Amca-qt/Amca-qt.github.io/main/Images/AmcaQt.gif" alt="Amca-Qt GIF">
+</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amca-qt&label=Profile%20views&color=0e75b6&style=flat" alt="amca-qt" /> </p>
 
 - 🌱 I’m currently learning **Python, JavaScript, PHP, HTML**
