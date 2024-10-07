@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
+<img align="right" height="250" src="https://i.pinimg.com/originals/a0/ad/bc/a0adbc045a67ef678633198eac4f5796.gif">
 
 ###
 #### Knowledge
