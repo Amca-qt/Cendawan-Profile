@@ -1,24 +1,58 @@
+<h2 align="left">Hi 👋! My name is AmcaQt and I'm a Newbie CTF Player.</h2>
 
-<h1 align="center">Hi 👋, I'm Amca-Qt</h1>
-<h3 align="center">I'm a Beginner Coder and Had a Drean to be Programmer <3</h3>
-<h2 align="center">
+###
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/Amca-qt/Amca-qt.github.io/main/Images/AmcaQt.gif" alt="Amca-Qt GIF">
-</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amca-qt&label=Profile%20views&color=0e75b6&style=flat" alt="amca-qt" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, PHP, HTML**
+###
 
-- 👨‍💻 All of my projects are available at [https://amca-qt.github.io/](https://amca-qt.github.io/)
+  <img src="https://github-readme-stats.vercel.app/api?username=Amca-Qt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amca-Qt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amca-qt&show_icons=true&locale=en&layout=compact" alt="amca-qt" /></p>
+###
+#### Knowledge
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amca-qt&show_icons=true&locale=en" alt="amca-qt" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amca-qt&" alt="amca-qt" /></p>
+###
+#### Skills
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=black" height="30" alt="Kali-Linux">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" height="30" alt="Burp-Suite">
+    <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white" height="30" alt="Metasploit">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=whitek" height="30" alt="Wireshark">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" height="30" alt="Github-Pages">
+    <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30" alt="Canva">
+</div>
+
+###
+#### Currently On
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" height="30" alt="Hack The Box">
+    <img src="https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" height="30" alt="Hackerone">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" height="30"
+    alt="Tryhackme">
+    <img src="https://img.shields.io/badge/PicoCTF-557C94?style=for-the-badge&logo=PicoCTF" height="30" alt="picoCTF">
+</div>
