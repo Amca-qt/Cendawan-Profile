@@ -5,15 +5,20 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Amca-qt/Amca-qt.github.io/main/Images/AmcaQt.gif" alt="Amca-Qt GIF">
 
-###
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Amca-Qt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amca-Qt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+### 📊 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=Amca-qt&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amca-qt&theme=radical&hide_border=falsee" height="150" alt="streak graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amca-Qt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph">
 </div>
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/a0/ad/bc/a0adbc045a67ef678633198eac4f5796.gif">
+#### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Amca-qt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150px" alt="github trophies">
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
 
 ###
 #### Knowledge
