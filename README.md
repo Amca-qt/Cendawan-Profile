@@ -7,14 +7,14 @@
 
 ### 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=Amca-qt&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amca-qt&theme=radical&hide_border=falsee" height="150" alt="streak graph">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amca-qt&theme=radical&hide_border=falsee" height="150" alt="streak graph"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amca-Qt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph">
 </div>
 
 ###
 
-#### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Amca-qt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150px" alt="github trophies">
+<!-- #### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Amca-qt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150px" alt="github trophies"> -->
 
 ###
 
@@ -61,3 +61,12 @@
     alt="Tryhackme">
     <img src="https://img.shields.io/badge/PicoCTF-557C94?style=for-the-badge&logo=PicoCTF" height="30" alt="picoCTF">
 </div>
+
+###
+#### CTF Badges
+
+| CTF Events | Badges |
+| ---------- | ------ |
+| Cyber Hacktics - DEADFACE CTF 2024 | <img src="img/Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png" height="225"> |
+| Spooky CTF | <img src="img/NJIT Information & Cybersecurity Club - SpookyCTF 2024 Cyber Challenger - 2024-11-02.png" height="225px"> | 
+|
