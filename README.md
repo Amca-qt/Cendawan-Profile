@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AmcaQt and I'm a Newbie CTF Player.</h2>
+<h2 align="left">Hi 👋! My name is AmcaQt and A Newbie CTF Player.</h2>
 
 ###
 
@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/Amca-qt/Amca-qt.github.io/main/Images/AmcaQt.gif" alt="Amca-Qt GIF">
 
 ### 📊 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=Amca-qt&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amcaqt&show_icons=true&locale=en" alt="amcaqt" /></p>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amca-qt&theme=radical&hide_border=falsee" height="150" alt="streak graph"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amca-Qt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcaqt&show_icons=true&locale=en&layout=compact" alt="amcaqt" /></p>
 </div>
 
 ###
