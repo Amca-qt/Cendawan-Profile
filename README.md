@@ -13,8 +13,8 @@
 
 ###
 
-<!-- #### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Amca-qt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150px" alt="github trophies"> -->
+#### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=AmcaQt&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150px" alt="github trophies">
 
 ###
 
